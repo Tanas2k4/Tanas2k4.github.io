@@ -12,7 +12,7 @@
       <h2>
         <img
           src="z5489361724627_a90211820637b3d20751cbc17ef9b55b.jpg"
-          alt="Ảnh cá nhân "
+          alt=""
           style="width: 200px"
         />
       </h2>
